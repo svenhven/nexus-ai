@@ -1,4 +1,4 @@
-![Nexus AI Logo](frontend/public/logo.svg)
+![Nexus AI Logo](./frontend/public/logo.svg)
 
 # Nexus AI
 
